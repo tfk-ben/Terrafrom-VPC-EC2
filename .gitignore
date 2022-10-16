@@ -1,0 +1,7 @@
+.terraform*
+main
+terraform.tfs*
+terraform.tfv*
+Terraform-E*
+terra*
+.terra*
